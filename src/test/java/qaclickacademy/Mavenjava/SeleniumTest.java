@@ -12,6 +12,8 @@ public class SeleniumTest {
 		
 		System.out.println("BrowserAutomation1");
 		System.out.println("BrowserAutomation2");
+		
+		System.out.println("BrowserAutomation3");
 	}
 
 	@Test
